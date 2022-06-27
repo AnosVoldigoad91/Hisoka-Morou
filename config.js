@@ -28,20 +28,20 @@ global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
     admin: 'Fitur Khusus Admin Group!',
-    botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
-    group: 'Fitur Digunakan Hanya Untuk Group!',
-    private: 'Fitur Digunakan Hanya Untuk Private Chat!',
+    botAdmin: 'Bot Harus Di Jadiin Admin Dulu Cuy',
+    owner: 'Yang Bisa Pake Fiturnya Cuman Owner Gw Ngab:v',
+    group: 'Cuman Bisa Di Pake Di Grup Ngab Fiturnya:v',
+    private: 'Wehh Fiturnya Cuman Bisa Di Pake Di Privat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 11',
+    wait: 'Bentar:v....',
+    endLimit: 'Limit Harian Mu Telah Habis Ngab, Limit Mu Akan Direset Setiap Jam 11',
 }
 global.limitawal = {
     premium: "Infinity",
     free: 100
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
-global.visoka = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
+global.visoka = { url: '' }
 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
