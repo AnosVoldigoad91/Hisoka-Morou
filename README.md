@@ -3,7 +3,7 @@ Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesu
 
 Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
 
-Best Regards. Hisoka
+Best Regards. Gojo
 
 # Gojo-Satoru
 Script WhatsApp Bot Multi Device
@@ -17,9 +17,9 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
 ## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
+* New script to replace this script [`look here`](https://github.com/Gojo-Bot/Gojo-Satoru) (`Support Legacy or Baileys`)
 * WhatsApp Bot normal [`Gojo-Bot/Gojo-Satoru`](https://github.com/Gojo-Bot/Gojo-Satoru)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/Gojo-Bot/Gojo-Satoru)
+* WhatsApp Bot Multi Device [`Gojo-Bot/Gojo-Satoru`](https://github.com/Gojo-Bot/Gojo-Satoru)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
