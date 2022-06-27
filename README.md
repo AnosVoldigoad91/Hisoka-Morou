@@ -5,7 +5,7 @@ Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, conto
 
 Best Regards. Hisoka
 
-# Hisoka-Morou
+# Gojo-Satoru
 Script WhatsApp Bot Multi Device
 
 ## NOTE
