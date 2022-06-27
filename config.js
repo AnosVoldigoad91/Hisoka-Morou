@@ -18,12 +18,12 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
-global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6288804947282','6288804947282','6288804947282']
+global.premium = ['6288804947282']
+global.packname = 'Gojo Satoru'
 global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.sessionName = 'Gojo'
+global.prefa = ['','!','.','#','/','🗿']
 global.sp = '⭔'
 global.mess = {
     success: '✓ Success',
@@ -34,7 +34,7 @@ global.mess = {
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
     wait: 'Loading...',
-    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
+    endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 11',
 }
 global.limitawal = {
     premium: "Infinity",
