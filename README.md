@@ -11,8 +11,6 @@ Script WhatsApp Bot Multi Device
 ## NOTE
 This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
 
-<p align="center">
-	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Gojo-Satoru</h1>
 
@@ -20,9 +18,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
+* WhatsApp Bot normal [`Gojo-Bot/Gojo-Satoru`](https://github.com/Gojo-Bot/Gojo-Satoru)
+* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/Gojo-Bot/Gojo-Satoru)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -98,4 +95,4 @@ License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
 * [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Saweria`](https://saweria.co/Gojo-Bot)
